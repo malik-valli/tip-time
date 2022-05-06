@@ -8,7 +8,7 @@ The application uses concepts such as..
 - view bindings;
 - Kotlin's basics.
 
-You can download .apk file in 'builds/tip-time.apk' directory
+You can **download** .apk file in **'builds/tip-time.apk'** directory
 
 <p>
   <img src="https://user-images.githubusercontent.com/81878781/167227383-798b62a7-6086-4095-836d-7fa398a4ab52.png" width="360">
